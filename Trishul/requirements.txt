@@ -1,0 +1,10 @@
+# Trishul - Python Dependencies
+# Core functionality uses only the Python standard library.
+# No external packages required for scanning.
+
+# Optional: for enhanced output formatting
+colorama>=0.4.6        # Cross-platform ANSI color support (Windows)
+
+# Optional: for development/testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
